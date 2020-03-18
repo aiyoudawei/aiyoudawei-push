@@ -1,9 +1,9 @@
 {
-  "name": "aiyoudawei",
+  "name": "aiyoudawei/push",
   "description": "Third party message push",
   "authors": [
     {
-      "name": "aiyoudawei",
+      "name": "aiyoudawei/push",
       "email": "852313239@qq.com"
     }
   ],
