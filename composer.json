@@ -1,0 +1,19 @@
+{
+  "name": "aiyoudawei-push",
+  "description": "Third party message push",
+  "authors": [
+    {
+      "name": "aiyoudawei",
+      "email": "852313239@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Aiyoudawei\\Push\\": "src/"
+    }
+  }
+}
